@@ -11,6 +11,6 @@ This is a link to the Bill of materials. I am also willing to sell a pre-assembl
    <h1>Drawlings and Assembly Drawlings</h1>
       <p1>TODO ADD THE DWT PNGs here</p1>
     </div>
-    <footer>NOT FOR SALE IN CALIFORNIA</footer>
+    <footer>NOT FOR SALE, USE, OR DOWNLOAD IN CALIFORNIA</footer>
   </body>
 </HTML>
